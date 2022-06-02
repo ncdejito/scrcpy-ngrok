@@ -1,7 +1,7 @@
 # scrcpy-ngrok
 Display and control Android over 4G network
 
-![proof](./assets/proof.PNG)
+![proof](./assets/proof.png)
 
 ## Requirements
 1. [Scrcpy](https://github.com/Genymobile/scrcpy)
