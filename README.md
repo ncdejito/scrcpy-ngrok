@@ -9,6 +9,7 @@ Display and control Android over 4G network
 1. [ADB](https://developer.android.com/studio/command-line/adb)
 1. [Termux (F-Droid version)](https://f-droid.org/en/packages/com.termux/)
 
+Tested on Android 7.0
 
 ## Setup
 Follow instructions in `run.sh`.
